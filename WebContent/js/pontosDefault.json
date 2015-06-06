@@ -1,0 +1,82 @@
+[
+	{
+		"Id":"1",
+		"Nome":"Acervo da Choque",
+		"Categoria":"Biblioteca",
+		"Endereco":"R. Dr. Bráulio Gomes, n? 125\/ 139 - Centro 01047-0",
+		"Latitude":"-23.546697",
+		"Longitude":"-46.641512",
+		"Servicos":"Bibliotecas P?blicas",
+		"FaixaEtaria":"Livre"
+	},
+	{
+		"Id":"2",
+		"Nome":"Padre José de Anchieta",
+		"Categoria":"Biblioteca",
+		"Endereco":"R. Antônio Maia, 651",
+		"Latitude":"-23.406565",
+		"Longitude":"-46.754615",
+		"Servicos":"Bibliotecas P?blicas",
+		"FaixaEtaria":"Livre"
+	},
+	{
+		"Id":"3",
+		"Nome":"Vicente Paulo Guimarães",
+		"Categoria":"Biblioteca",
+		"Endereco":"R. Jaguar, 225",
+		"Latitude":"-23.494106",
+		"Longitude":"-46.411743",
+		"Servicos":"Bibliotecas P?blicas",
+		"FaixaEtaria":"Livre"
+	},
+	{
+		"Id":"4",
+		"Nome":"Ponto de Leitura Jardim Lapenna",
+		"Categoria":"Biblioteca",
+		"Endereco":"R. Serra da Juruoca, s/n - Jardim Lapenna - São Miguel Paulista",
+		"Latitude":"-23.488318",
+		"Longitude":"-46.447923",
+		"Servicos":"Bibliotecas P?blicas",
+		"FaixaEtaria":"Livre"
+	},
+	{
+		"Id":"5",
+		"Nome":"Juo Bananere - CEU Rosa da China",
+		"Categoria":"Biblioteca",
+		"Endereco":"R. Clara Petrella, s/n - Jd. São Roberto",
+		"Latitude":"-23.621308",
+		"Longitude":"-46.501179",
+		"Servicos":"Bibliotecas P?blicas",
+		"FaixaEtaria":"Livre"
+	},
+	{
+		"Id":"6",
+		"Nome":"Sergio Milliet (Inclui a Bibl. Alfredo Volpi (março/1983 - denom. Set/1996) e Discoteca Oneyda Alvar",
+		"Categoria":"Biblioteca",
+		"Endereco":"R. Vergueiro, 1.000",
+		"Latitude":"-23.570792",
+		"Longitude":"-46.639645",
+		"Servicos":"Bibliotecas P?blicas",
+		"FaixaEtaria":"Livre"
+	},
+	{
+		"Id":"7",
+		"Nome":"Raul Bopp (Temática em Meio Ambiente - inaug. 30-4-2009)",
+		"Categoria":"Biblioteca",
+		"Endereco":"R. Muniz de Souza, 1.155",
+		"Latitude":"-23.572464",
+		"Longitude":"-46.628981",
+		"Servicos":"Bibliotecas P?blicas",
+		"FaixaEtaria":"Livre"
+	},
+	{
+		"Id":"8",
+		"Nome":"Espaço Sapucaia - Biblioteca",
+		"Categoria":"Biblioteca",
+		"Endereco":"Av. IV Centenário, 1268, Portão 7 A",
+		"Latitude":"-23.586958",
+		"Longitude":"-46.657133",
+		"Servicos":"Bibliotecas P?blicas",
+		"FaixaEtaria":"Livre"
+	}
+]
